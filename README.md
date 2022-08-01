@@ -1,5 +1,5 @@
 # LizardScraper
-Scrapes Google or Any other website using Google Dorks Syntaxes
+Scrapes sites through google search using Google Dorks Syntaxes
 
 contact for issues or improvements: **Telegram @LizardX2 / t.me/LizardX2**
 
