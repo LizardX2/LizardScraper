@@ -3,9 +3,11 @@ Scrapes Google or Any other website using Google Dorks Syntaxes
 
 contact for issues or improvements: **Telegram @LizardX2 / t.me/LizardX2**
 
-Requirements: <br />
-_pip install google_<br />
-_pip install colorama_<br />
+**First steps**<br />
+> **CREATE A NEW FILE CALLED "logs.txt" to save the content!** <br />
+
+> _pip install google_<br />
+> _pip install colorama_<br />
 
 **Example:**
 _(It's just an example, you can use any other website and use your own settings)_
@@ -22,4 +24,4 @@ _(It's just an example, you can use any other website and use your own settings)
 
 
 
-**Issues:** _The searches could get you momentaly ratelimited, so consider using VPN/Proxies_
+**Issues:** _The searches could get you momentaly ratelimited, consider using VPN/Proxies_
