@@ -10,6 +10,8 @@ contact for issues or improvements: **Telegram @LizardX2 / t.me/LizardX2**
 
 **[!] CHANGELOG:** **Fixed various issues with libraries and random tld errors, the code also has been improved, now everything should work fine!**
 
+>[?] If you are wondering how to use the date feature, the format is xx/xx/xxxx Example: (from input) _2/02/2022_ (to input) _04/04/2022_
+
 **Settings:**
 
 ![ex1](https://user-images.githubusercontent.com/108220470/182152718-a28b92ae-8766-4308-a392-4bd3031bde34.png)
