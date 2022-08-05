@@ -10,7 +10,7 @@ contact for issues or improvements: **Telegram @LizardX2 / t.me/LizardX2**
 > _pip install colorama_<br />
 > _pip install googlesearch-python_<br />
 
-**CHANGELOG:** **Fixed various issues with libraries and random tld errors, the code also has been improved, now everything should work fine!**
+**[!] CHANGELOG:** **Fixed various issues with libraries and random tld errors, the code also has been improved, now everything should work fine!**
 
 **Settings:**
 
