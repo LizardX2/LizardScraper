@@ -3,12 +3,10 @@ Scrapes any sites through google search using Google Dorks Syntaxes
 
 contact for issues or improvements: **Telegram @LizardX2 / t.me/LizardX2**
 
-**First steps**<br />
-> **CREATE A NEW FILE CALLED "logs.txt" to save the content!** <br />
-
+> **Requirements:** <br />
 > _pip install google_<br />
 > _pip install colorama_<br />
-> _pip install googlesearch-python_<br />
+> _pip install validators_<br />
 
 **[!] CHANGELOG:** **Fixed various issues with libraries and random tld errors, the code also has been improved, now everything should work fine!**
 
